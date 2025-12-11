@@ -1,0 +1,131 @@
+/*
+Custom Boothby Color Palette
+- Eucalyptus Green (Primary): #4A7856
+- Coastal Blue (Secondary): #007C92
+- Wattle Yellow (Accent): #FDB813
+- Sandy Beige (Light Background): #F5F1E9
+- Charcoal (Text): #333333
+*/
+
+:root {
+  --primary-accent: #4A7856; /* Eucalyptus Green */
+  --navbar-border-top: #385a40; /* Darker Green */
+  --button-border: #385a40;
+  --link-focus: #2c4732;
+  --form-shadow: rgba(74, 120, 86, 0.6);
+  --pagination-bg: #c2d4c7; /* Lighter Green */
+  --link-hover-bg: #5f996d; /* Lighter Green */
+  --navbar-focus: #8cb897; /* Lighter Green */
+}
+
+/* Override button text color to ensure contrast */
+.btn-template-primary {
+    color: #ffffff;
+}
+
+.btn-template-main {
+    color: var(--primary-accent);
+}
+
+.btn-template-main:hover,
+.btn-template-main:focus,
+.btn-template-main:active,
+.btn-template-main.active {
+  background: var(--primary-accent);
+  color: #ffffff;
+  border-color: var(--primary-accent);
+}
+
+/* Set body text and background */
+body {
+    background-color: #F5F1E9; /* Sandy Beige */
+    color: #333333; /* Charcoal */
+}
+
+/* Ensure good contrast for headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #333333; /* Charcoal */
+}
+
+/* Use the accent color for specific highlights if needed */
+.accent-text {
+    color: #FDB813; /* Wattle Yellow */
+}
+
+/* You can add more specific overrides here if needed */
+
+/* Adding Ubuntu font */
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+body, h1, h2, h3, h4, h5, h6, .btn {
+    font-family: 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* Disable sticky navigation bar */
+.navbar-affixed-top {
+    position: static !important;
+}
+
+/* Custom footer styling for visual separation */
+#copyright {
+  background-color: #f7f7f7; /* A subtle light grey */
+  color: #333333;          /* Our charcoal text for readability */
+  padding-top: 40px;      /* Reduced top padding */
+  padding-bottom: 30px;   /* Reduced bottom padding */
+}
+
+#copyright p {
+    color: #333333; /* Ensure paragraph text also uses charcoal */
+}
+
+/* Reduce header and navbar height for a more compact look */
+#top {
+    padding: 5px 0;
+}
+
+.navbar .navbar-buttons button,
+.navbar .navbar-buttons a.btn,
+.navbar .navbar-buttons .btn-default.navbar-toggle {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+/* Constrain the logo size to fit the navbar */
+.navbar-brand {
+    /* The <a> tag wrapping the logo */
+    padding: 5px 15px; /* Reduce padding to make navbar shorter */
+    height: auto;
+}
+
+.navbar-brand img {
+    max-height: 60px; /* Set a reasonable max-height for the logo image */
+    width: auto;      /* Maintain aspect ratio */
+}
+
+/* Styling for images in the features section */
+.box-simple .image {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.box-simple .image img {
+    display: inline-block;
+    max-height: 150px; /* Constrain the height */
+    width: auto;
+    border-radius: 5px; /* Add some soft corners */
+}
+
+/* Add some space below the blog post banner */
+.post-banner {
+    margin-bottom: 30px;
+}
+
+/* Adjust spacing for recent post items on the homepage */
+.box-image-text.blog {
+    margin-top: 30px; /* More space above the entire box */
+    margin-bottom: 0;   /* Less space below the entire box */
+}
+
+.box-image-text.blog .top {
+    margin-bottom: 5px; /* Tighter space between image and text */
+}

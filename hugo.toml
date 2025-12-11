@@ -1,0 +1,117 @@
+baseURL = "https://betterforboothby.com.au"
+languageCode = "en-au"
+title = "Better for Boothby"
+theme = "hugo-universal-theme"
+defaultContentLanguage = "en"
+
+# not pluralize title pages by default
+pluralizelisttitles = false
+
+[services]
+    # Disable comments
+    [services.disqus]
+        shortname = ""
+    # Disable Google Analytics for now
+    [services.googleAnalytics]
+        id = ""
+
+[menu]
+  [[menu.main]]
+    name       = "Home"
+    identifier = "menu.home"
+    url        = "/"
+    weight     = 1
+  [[menu.main]]
+      name       = "Our Vision"
+      identifier = "menu.vision"
+      url        = "/page/vision/"
+      weight     = 2
+  [[menu.main]]
+      name       = "Why Boothby Deserves Better"
+      identifier = "menu.why"
+      url        = "/page/why-boothby-deserves-better/"
+      weight     = 3
+  [[menu.main]]
+      name       = "Get Involved"
+      identifier = "menu.getinvolved"
+      url        = "/page/get-involved/"
+      weight     = 4
+  [[menu.main]]
+      name       = "About Us"
+      identifier = "menu.about"
+      url        = "/page/about/"
+      weight     = 5
+  [[menu.main]]
+      name       = "Blog"
+      identifier = "menu.blog"
+      url        = "/blog/"
+      weight     = 6
+  [[menu.main]]
+      identifier = "contact"
+      name       = "Contact"
+      url        = "/page/contact/"
+      weight     = 7
+
+
+[params]
+    mainSections = ["blog"]
+    author = "Better for Boothby Community"
+    defaultKeywords = ["boothby", "independent", "community", "politics", "adelaide"]
+    defaultDescription = "A community-driven movement for better political representation in the Australian Federal Electorate of Boothby."
+
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet, boothby
+    style = "boothby"
+
+    # Contact form
+    formspree_action = "https://formspree.io/f/mqkrvylk" # using the provided email
+    contact_form_ajax = true
+
+    # Footer information
+    copyright = "Content released under <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0 1.0 Universal</a>."
+    date_format = "January 2, 2006"
+
+    # Logo
+    disabled_logo = false
+    logo_text = "Better for Boothby"
+    logo = "img/logo.svg"
+    logo_small = "img/logo-small.svg"
+    contact_url = "/page/contact"
+
+[params.topbar]
+    enable = true
+    text = ""
+
+[params.carouselHomepage]
+    enable = true
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
+
+[params.features]
+    enable = true
+    cols = 4
+
+[params.testimonials]
+    enable = false
+
+[params.clients]
+    enable = false
+
+[params.recent_posts]
+    enable = true
+    title = "Our Latest Insights"
+    subtitle = "Stay informed with our latest articles and updates on community action and political integrity."
+
+# Parameters for IsSet warnings
+about_us = ""
+address = ""
+latitude = ""
+longitude = ""
+
+[params.widgets]
+    categories = true
+    tags = true
+    search = true
+
+[params.footer.recent_posts]
+    enable = false

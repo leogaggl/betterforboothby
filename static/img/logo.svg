@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="600"
+   height="150"
+   viewBox="0 0 600 150"
+   fill="none"
+   version="1.1"
+   id="svg246"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs250" />
+  <sodipodi:namedview
+     id="namedview248"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.3569231"
+     inkscape:cx="299.94331"
+     inkscape:cy="100.96372"
+     inkscape:window-width="1536"
+     inkscape:window-height="779"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg246" />
+  <style
+     id="style234">
+    .better {
+      font-family: 'Ubuntu', 'Segoe UI', sans-serif;
+      font-weight: 700;
+      font-size: 64px;
+      fill: #3B8CA8; 
+      text-anchor: start;
+    }
+    .forword {
+      font-family: 'Ubuntu', 'Segoe UI', sans-serif;
+      font-weight: 700;
+      font-size: 64px;
+      fill: #1D5E5A; 
+      text-anchor: middle;
+    }
+    .boothby {
+      font-family: 'Ubuntu', 'Segoe UI', sans-serif;
+      font-weight: 700;
+      font-size: 64px;
+      fill: #1D5E5A; 
+      text-anchor: end;
+    }
+  </style>
+  <!-- Coastal horizontal blue bar -->
+  <rect
+     x="8"
+     y="120"
+     width="150"
+     height="20"
+     rx="10"
+     fill="#3b8ca8"
+     id="rect236" />
+  <!-- Hill / leaf shape behind text -->
+  <path
+     d="m 158,120 c 90,-90 320,-90 410,0 q 20,20 20,0 C 478,-20 288,-20 208,120 q -20,20 -50,0 z"
+     fill="#d8c87a"
+     id="path238" />
+  <!-- Text evenly aligned over shapes -->
+  <text
+     x="8"
+     y="90"
+     class="better"
+     id="text240">Better</text>
+  <text
+     x="268"
+     y="90"
+     class="forword"
+     id="text242">for</text>
+  <text
+     x="588"
+     y="90"
+     class="boothby"
+     id="text244">Boothby</text>
+</svg>

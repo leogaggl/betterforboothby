@@ -1,0 +1,22 @@
+<footer id="footer">
+    <div class="container">
+        <!-- Re-implement any sections from the original footer.html that are desired -->
+        <!-- For now, we only want the copyright section to be custom -->
+    </div>
+</footer>
+
+<div id="copyright">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                {{ if isset .Site.Params "copyright" }}
+                <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}</p>
+                {{ end }}
+                <!-- Removed: "Template by Bootstrapious. Ported to Hugo by DevCows." attribution as per user request -->
+                <p class="pull-right">
+                  <a href="/privacy/">Privacy Policy</a> | <a href="/attributions/">Attributions</a> | Powered by <a href="https://gohugo.io/">Hugo</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>

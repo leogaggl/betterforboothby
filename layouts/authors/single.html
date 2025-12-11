@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+  </head>
+
+  <body>
+
+    <div id="all">
+        {{ partial "top.html" . }}
+
+        {{ partial "nav.html" . }}
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+            {{ if isset .Params "id" }}
+
+              {{ partial .Params.id . }}
+
+            {{ else }}
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="author-profile">
+                            <h1>{{ .Title }}</h1>
+                            {{ with .Params.image }}
+                                <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="img-responsive img-circle" style="max-width: 150px; margin-bottom: 20px;">
+                            {{ end }}
+                            <p class="lead">{{ .Description }}</p>
+                            {{ .Content }}
+
+                            {{ $author_posts := where site.RegularPages "Type" "blog" }}
+                            {{ $author_posts := where $author_posts "Params.authors" "intersect" (slice .Title) }}
+
+                            {{ if gt (len $author_posts) 0 }}
+                            <h2>Posts by {{ .Title }}</h2>
+                            <ul>
+                            {{ range $author_posts }}
+                                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Date.Format "January 2, 2006" }})</li>
+                            {{ end }}
+                            </ul>
+                            {{ end }}
+                        </div>
+                    </div>
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container -->
+
+            {{ end }}
+        </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
