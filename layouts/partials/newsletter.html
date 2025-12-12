@@ -1,0 +1,15 @@
+{{ if .Site.Data.newsletter.enable }}
+<section class="bar background-white no-mb">
+    <div class="container">
+        <div class="col-md-12">
+            <div class="heading text-center">
+                <h2>{{ .Site.Data.newsletter.title | markdownify }}</h2>
+            </div>
+            <p class="lead">
+                {{ .Site.Data.newsletter.subtitle | markdownify }}
+            </p>
+            {{ partial "newsletter_form_only.html" . }}
+        </div>
+    </div>
+</section>
+{{ end }}

@@ -8,12 +8,22 @@ The website is built using the [Hugo Static Site Generator](https://gohugo.io/) 
 
 To run the website locally for development, you will need to have Hugo installed.
 
-1.  **Clone the repository:**
-    ```bash
-    git clone --recurse-submodules https://github.com/<your-username>/betterforboothby.git
-    cd betterforboothby
-    ```
-    (Note: a git submodule, so it's important to clone with `--recurse-submodules` or run `git submodule update --init --recursive` after cloning).
+1.  **Clone the repository and initialise submodules:**
+
+    There are two ways to clone the repository and ensure submodules are correctly initialised:
+
+    *   **Option 1: Clone with `--recurse-submodules` (recommended):**
+        ```bash
+        git clone --recurse-submodules https://github.com/<your-username>/betterforboothby.git
+        cd betterforboothby
+        ```
+
+    *   **Option 2: Clone normally, then initialise submodules:**
+        ```bash
+        git clone https://github.com/<your-username>/betterforboothby.git
+        cd betterforboothby
+        git submodule update --init --recursive
+        ```
 
 2.  **Run the Hugo server:**
     ```bash

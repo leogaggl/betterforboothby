@@ -1,0 +1,6 @@
+# To add the newsletter signup form to the homepage, set enable to true.
+enable: true
+title: "Stay in Touch"
+subtitle: "Sign up for our newsletter to stay up-to-date with our campaign. No spam, we promise."
+username: "betterforboothby"
+action_url: "https://buttondown.email/api/emails/embed-subscribe/"
