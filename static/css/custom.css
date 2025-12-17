@@ -8,3 +8,14 @@
   transition: none;
   -webkit-transition: none;
 }
+
+/* Increase vertical spacing between sections */
+.bar {
+    padding: 20px 0;
+}
+
+/* Slightly more horizontal padding for containers within sections */
+.bar .container {
+    padding-left: 25px;
+    padding-right: 25px;
+}
