@@ -2,6 +2,8 @@
 
 This repository contains the source code for the "Better for Boothby" campaign website, a community-driven movement for better political representation in the Australian Federal Electorate of Boothby.
 
+Published site: [https://betterforboothby.com.au/](https://betterforboothby.com.au/)
+
 The website is built using the [Hugo Static Site Generator](https://gohugo.io/) and the [Hugo Universal Theme](https://github.com/devcows/hugo-universal-theme).
 
 ## Development
