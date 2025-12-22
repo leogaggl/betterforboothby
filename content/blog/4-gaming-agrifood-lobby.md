@@ -6,7 +6,7 @@ categories = ["Who Really Decides?"]
 banner = "img/blog/theenmoy-52621945492.jpg"
 authors = ["Leo Gaggl"]
 series = ["Who Really Decides?"]
-description = "From pokies to prices at the checkout, we look at the powerful gambling and supermarket lobbies and how they shape our daily lives in Boothby."
+description = "From pokies to prices at the checkout, we look at the powerful gambling and supermarket lobbies and how they shape our daily lives in the Electorate of Boothby."
 +++
 
 **Series: Who Really Decides? – Taking Back Our Community’s Voice**
@@ -29,7 +29,7 @@ When you see the price of groceries going up while our local farmers are struggl
 
 They use their market power to squeeze farmers on price, while their aggressive lobbying has blocked reforms that would promote fairer pricing, clearer food labelling, and reduced plastic waste. As reports from **The Australia Institute** show, this kind of concentrated corporate power allows a few big players to shape the market for their own benefit.
 
-**For us in Boothby, this means:**
+**For us in the Electorate of Boothby, this means:**
 *   Higher prices at the checkout.
 *   Less shelf space for products from local South Australian growers and producers.
 *   A food system that prioritises corporate profits over the wellbeing of farmers and families.
@@ -40,7 +40,7 @@ Whether it's climate, healthcare, gambling, or groceries, the story is the same.
 
 This is why we need a community-backed independent.
 
-An independent representative doesn't have to answer to a party that takes millions in donations from these very industries. They are free to listen to the evidence and vote for what's best for the people of Boothby.
+An independent representative doesn't have to answer to a party that takes millions in donations from these very industries. They are free to listen to the evidence and vote for what's best for the people of the Electorate of Boothby.
 
 They can fight for:
 *   Real gambling reform that reduces harm.

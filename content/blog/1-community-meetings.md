@@ -5,14 +5,14 @@ tags = ["community", "meet-up", "getting started"]
 categories = ["Action"]
 banner = "img/blog/damienwalmsley-54101142508.jpg" 
 authors = ["Leo Gaggl"]
-description = "Turn frustration into action. Find out about our informal community meet-ups across Boothby and join the conversation about a better future for our electorate."
+description = "Turn frustration into action. Find out about our informal community meet-ups across the Electorate of Boothby and join the conversation about a better future for our electorate."
 +++
 
 Let’s be honest. How many of us have found ourselves talking (or shouting!) at the TV as we watch the news from Canberra? We see decisions being made that don’t reflect our community's values, and it’s easy to feel powerless.
 
 But what if we could turn that frustration into action?
 
-Here in Boothby, a growing number of us believe it's time for a change. We're tired of the 'party-over-people' politics and we’re ready to build something new – a movement that puts our community first. Inspired by the success of community independents across Australia, we know that when everyday people get organised, we can achieve incredible things.
+Here in the Electorate of Boothby, a growing number of us believe it's time for a change. We're tired of the 'party-over-people' politics and we’re ready to build something new – a movement that puts our community first. Inspired by the success of community independents across Australia, we know that when everyday people get organised, we can achieve incredible things.
 
 ### The First Step is a Conversation
 
@@ -24,7 +24,7 @@ That’s exactly what we want to do now.
 
 ### Let's Get Together
 
-We're organising a series of informal, friendly meet-ups at local pubs across Boothby. It’s a chance to:
+We're organising a series of informal, friendly meet-ups at local pubs across the Electorate of Boothby. It’s a chance to:
 *   Meet other people in our community who feel the same way.
 *   Share your ideas and frustrations in a relaxed, welcoming space.
 *   Discuss what we want from a true community independent.

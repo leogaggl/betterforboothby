@@ -2,7 +2,7 @@
 title: "Our Commitment to Your Privacy"
 date: 2025-12-10T12:05:00+10:30
 description: "Read the privacy policy for Better for Boothby. We are committed to protecting your personal information and being transparent about how we handle your data."
-keywords: ["privacy policy", "data protection", "privacy", "community", "boothby"]
+keywords: ["privacy policy", "data protection", "privacy", "community", "Electorate of Boothby"]
 ---
 
 Better for Boothby is a community movement built on trust. That trust extends to how we handle your personal information. This policy outlines our commitment to protecting your privacy.

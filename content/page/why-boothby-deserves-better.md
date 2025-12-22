@@ -1,15 +1,15 @@
 ---
-title: "Why Boothby Deserves Better"
+title: "Why the Electorate of Boothby Deserves Better"
 weight: 3
-description: "Find out why Boothby deserves better representation. We examine the voting records of past and present members and make the case for a true community independent."
-keywords: ["why boothby deserves better", "voting record", "independent", "community", "politics", "adelaide"]
+description: "Find out why the Electorate of Boothby deserves better representation. We examine the voting records of past and present members and make the case for a true community independent."
+keywords: ["why the Electorate of Boothby deserves better", "voting record", "independent", "community", "politics", "adelaide", "Aberfoyle Park", "Belair", "Blackwood", "Brighton", "Glenelg", "Marion", "Mitcham", "Seacliff"]
 ---
 
-The people of Boothby care deeply about our environment, government integrity, and a fair go for all. We expect our elected representative to reflect those values in Canberra.
+The people of the Electorate of Boothby, from the coast to the hills, in suburbs like Aberfoyle Park, Belair, Blackwood, Brighton, Glenelg, Marion, Mitcham, and Seacliff, care deeply about our environment, government integrity, and a fair go for all. We expect our elected representative to reflect those values in Canberra.
 
-However, a look at the voting record of our current member for Boothby, Louise Miller-Frost, shows a worrying disconnect between what our community wants and how our vote is being used in Parliament. Since being elected in May 2022, our member has voted with the Labor party 100% of the time, even when it goes against the interests of our community and the platforms many of us voted for.
+However, a look at the voting record of our current member for the Electorate of Boothby, Louise Miller-Frost, shows a worrying disconnect between what our community wants and how our vote is being used in Parliament. Since being elected in May 2022, our member has voted with the Labor party 100% of the time, even when it goes against the interests of our community and the platforms many of us voted for.
 
-This isn't about personality; it's about policy and priorities. It's about ensuring our representative is a voice for Boothby first, not just a vote for a party.
+This isn't about personality; it's about policy and priorities. It's about ensuring our representative is a voice for the Electorate of Boothby first, not just a vote for a party.
 
 ### A Record of Disappointing Votes
 
@@ -30,7 +30,7 @@ And consistently voted **AGAINST**:
 
 ### A Deeper Pattern of Party Loyalty
 
-This isn't a recent problem. It's a pattern that has repeated for years in Boothby. The two previous members, [Nicolle Flint](https://theyvoteforyou.org.au/people/representatives/boothby/nicolle_flint) (Liberal, 2016-2022) and [Andrew Southcott](https://theyvoteforyou.org.au/people/representatives/boothby/andrew_southcott) (Liberal, 1996-2016), also voted with their party almost 100% of the time. This demonstrates a long-standing issue where the representation for Boothby has been dictated by party loyalty, not by the needs and values of our community.
+This isn't a recent problem. It's a pattern that has repeated for years in the Electorate of Boothby. The two previous members, [Nicolle Flint](https://theyvoteforyou.org.au/people/representatives/boothby/nicolle_flint) (Liberal, 2016-2022) and [Andrew Southcott](https://theyvoteforyou.org.au/people/representatives/boothby/andrew_southcott) (Liberal, 1996-2016), also voted with their party almost 100% of the time. This demonstrates a long-standing issue where the representation for the Electorate of Boothby has been dictated by party loyalty, not by the needs and values of our community.
 
 ### It Doesn't Matter Which Major Party
 
@@ -38,10 +38,10 @@ It doesn't seem to matter which of the major parties holds the seat. The outcome
 
 ### It's Time for a True Independent
 
-The current Member for Boothby has never voted against the majority of their party since entering Parliament.
+The current Member for the Electorate of Boothby has never voted against the majority of their party since entering Parliament.
 
 When a representative is bound to a party, their loyalty is ultimately to that party's agenda. They are constrained by deals made in the party room, not by the needs of their electorate.
 
-We believe Boothby is ready for a representative who votes for the community, every time. An independent who can't be controlled by party bosses or silenced by factional deals.
+We believe the Electorate of Boothby is ready for a representative who votes for the community, every time. An independent who can't be controlled by party bosses or silenced by factional deals.
 
-**That's why we're here. Join us in building a better future for Boothby.**
+**That's why we're here. Join us in building a better future for the Electorate of Boothby.**

@@ -17,11 +17,11 @@ clients:
 recent_posts:
   enable: true
 description: "Better for Boothby is a community-driven movement for independent representation in the Australian Federal Electorate of Boothby. Join us to build a better future."
-keywords: ["boothby", "independent", "community", "politics", "adelaide", "climate action", "integrity", "healthcare"]
+keywords: ["Electorate of Boothby", "independent", "community", "politics", "adelaide", "climate action", "integrity", "healthcare"]
 ---
 
-## It's Time for a Real Choice in Boothby
+## It's Time for a Real Choice in the Electorate of Boothby
 
-Welcome to Better for Boothby. We are a grassroots movement of people from across our community who believe we deserve better representation. We are working to elect a truly independent voice to stand up for Boothby in Federal Parliament.
+Welcome to Better for Boothby. We are a grassroots movement of people from across our community who believe we deserve better representation. We are working to elect a truly independent voice to stand up for the Electorate of Boothby in Federal Parliament.
 
-Our political system feels broken because, for too long, both of the major parties have failed to put people first.  Over decades the last three representatives for Boothby have put their parties before their people - it's clear to see from their voting record. Our vision is for a politics based on integrity, community, and a sustainable future. Explore our core pillars below.
+Our political system feels broken because, for too long, both of the major parties have failed to put people first.  Over decades the last three representatives for the Electorate of Boothby have put their parties before their people - it's clear to see from their voting record. Our vision is for a politics based on integrity, community, and a sustainable future. Explore our core pillars below.

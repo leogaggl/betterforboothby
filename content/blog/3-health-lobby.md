@@ -6,7 +6,7 @@ categories = ["Who Really Decides?"]
 banner = "img/blog/opengridscheduler-20636426155.jpg"
 authors = ["Leo Gaggl"]
 series = ["Who Really Decides?"]
-description = "Is our healthcare system working for us? A look at how the for-profit health lobby influences policy in Canberra and what it means for healthcare in Boothby."
+description = "Is our healthcare system working for us? A look at how the for-profit health lobby influences policy in Canberra and what it means for healthcare in the Electorate of Boothby."
 +++
 
 **Series: Who Really Decides? – Taking Back Our Community’s Voice**
@@ -23,7 +23,7 @@ These large corporations spend millions to ensure their voices are heard by deci
 
 This can mean lobbying for higher government rebates that go to their businesses, fighting against regulations that would increase transparency, or pushing for policies that shift public money into the private system.
 
-### How Does This Affect Us in Boothby?
+### How Does This Affect Us in the Electorate of Boothby?
 
 When policy is shaped by the for-profit health lobby, it creates a system that serves shareholders first, and patients second. Here’s what that looks like on the ground for our community:
 

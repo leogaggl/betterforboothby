@@ -6,7 +6,7 @@ categories = ["Who Really Decides?"]
 banner = "img/blog/justinwkern-11591709006.jpg"
 authors = ["Leo Gaggl"]
 series = ["Who Really Decides?"]
-description = "Who's really shaping our climate future? We explore the influence of the fossil fuel lobby on Australian politics and what it means for climate action in Boothby."
+description = "Who's really shaping our climate future? We explore the influence of the fossil fuel lobby on Australian politics and what it means for climate action in the Electorate of Boothby."
 +++
 
 **Series: Who Really Decides? – Taking Back Our Community’s Voice**
@@ -33,7 +33,7 @@ This "dark money" creates a system where accountability is blurred. As **The Aus
 
 ### The Local Impact
 
-This isn't just a Canberra bubble problem; it has real-world consequences for us here in Boothby.
+This isn't just a Canberra bubble problem; it has real-world consequences for us here in the Electorate of Boothby.
 
 *   **Delayed Climate Action:** Means our communities face higher insurance premiums due to increased climate risk.
 *   **Environmental Threats:** Puts our beautiful coastline and hills at greater risk from more severe weather events like bushfires and storms.
@@ -45,7 +45,7 @@ Our community cannot afford another decade of delay disguised as debate.
 
 This is the core of why we need a change. When a representative is tied to a major party, they are part of a system that relies on these powerful interests. They are subject to the pressures and priorities of the party room, which is in turn influenced by the lobbyists in the hallways of Parliament House.
 
-A true community independent is different. They are accountable only to you, the people of Boothby. They can’t be swayed by a party boss or a corporate donor. Their job is to represent *our* voice, and our voice alone.
+A true community independent is different. They are accountable only to you, the people of the Electorate of Boothby. They can’t be swayed by a party boss or a corporate donor. Their job is to represent *our* voice, and our voice alone.
 
 Imagine policy shaped by people who live here, not lobbyists who don’t.
 

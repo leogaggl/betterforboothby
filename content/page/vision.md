@@ -1,15 +1,15 @@
 ---
-title: "Our Vision for Boothby"
+title: "Our Vision for the Electorate of Boothby"
 weight: 2
-description: "Our vision for a better Boothby. Read the Better for Boothby manifesto for a future built on integrity, community well-being, and real climate action."
-keywords: ["vision", "manifesto", "integrity", "climate action", "healthcare", "community", "boothby"]
+description: "Our vision for a better Electorate of Boothby. Read the Better for Boothby manifesto for a future built on integrity, community well-being, and real climate action."
+keywords: ["vision", "manifesto", "integrity", "climate action", "healthcare", "community", "Electorate of Boothby"]
 ---
 
-## A Community-Powered Vision for a Better Boothby
+## A Community-Powered Vision for a Better Electorate of Boothby
 
-For too long, the people of Boothby have been taken for granted. Our voices have been lost in partisan games, and our interests have come second to those of party donors and lobbyists. We believe it's time for a change. It's time for a representative who is truly independent and accountable only to the people they serve.
+For too long, the people of the Electorate of Boothby have been taken for granted. Our voices have been lost in partisan games, and our interests have come second to those of party donors and lobbyists. We believe it's time for a change. It's time for a representative who is truly independent and accountable only to the people they serve.
 
-This is our vision for a stronger, fairer, and more sustainable Boothby. It's a plan built not in a backroom in Canberra, but from conversations on doorsteps, in cafes, and at community halls right here in our electorate.
+This is our vision for a stronger, fairer, and more sustainable Electorate of Boothby. It's a plan built not in a backroom in Canberra, but from conversations on doorsteps, in cafes, and at community halls right here in our electorate.
 
 ---
 
@@ -19,7 +19,7 @@ Our community deserves a representative who puts people first.
 
 *   **Restoring Integrity and Trust:** We need to bring honesty and transparency back to politics. That means a representative who is not beholden to a party machine or big-money influence, but is instead accountable to our community. We will champion a powerful federal integrity commission and fight for stronger transparency laws, because you have a right to know how your money is spent and how decisions are made.
 
-*   **People-First Healthcare:** Healthcare should serve people, not profits. We will work to ensure our healthcare funding goes to frontline services—our doctors, nurses, and public hospitals—not to propping up the profits of private health insurance companies. We need to strengthen Medicare and ensure everyone in Boothby can get the care they need, when they need it.
+*   **People-First Healthcare:** Healthcare should serve people, not profits. We will work to ensure our healthcare funding goes to frontline services—our doctors, nurses, and public hospitals—not to propping up the profits of private health insurance companies. We need to strengthen Medicare and ensure everyone in the Electorate of Boothby can get the care they need, when they need it.
 
 ---
 
@@ -35,4 +35,4 @@ We have a responsibility to protect our beautiful local environment for our chil
 
 ### Join Us
 
-This is more than just a campaign; it's a movement. A movement to give Boothby the representative it deserves. If you share this vision, we invite you to join us. Together, we can build a better future for Boothby.
+This is more than just a campaign; it's a movement. A movement to give the Electorate of Boothby the representative it deserves. If you share this vision, we invite you to join us. Together, we can build a better future for the Electorate of Boothby.

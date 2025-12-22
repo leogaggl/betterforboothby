@@ -2,7 +2,7 @@
 title: "Contact Us"
 weight: 6
 description: "Get in touch with the Better for Boothby team. We'd love to hear from you. Find our contact details here."
-keywords: ["contact", "get in touch", "email", "boothby", "community"]
+keywords: ["contact", "get in touch", "email", "Electorate of Boothby", "community"]
 ---
 
 We'd love to hear from you. Whether you have a question, a suggestion, or want to get involved, please don't hesitate to reach out.

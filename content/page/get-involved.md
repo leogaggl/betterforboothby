@@ -2,16 +2,16 @@
 title: "Get Involved"
 weight: 4
 description: "Join the Better for Boothby movement and help us build a better future for our community. Find out how you can get involved, from volunteering to signing up for our mailing list."
-keywords: ["get involved", "volunteer", "join", "community", "boothby", "politics"]
+keywords: ["get involved", "volunteer", "join", "community", "Electorate of Boothby", "politics"]
 ---
 
-Building a better future for Boothby is a community effort, and we can't do it without you. Every conversation, every volunteer hour, and every donation helps us get closer to electing a truly independent voice for our electorate.
+Building a better future for the Electorate of Boothby is a community effort, and we can't do it without you. Every conversation, every volunteer hour, and every donation helps us get closer to electing a truly independent voice for our electorate.
 
 Here are the best ways you can get involved and make a real difference.
 
 ### 1. Stay Informed: Join Our Mailing List
 
-Be the first to hear about campaign updates, events, and key political issues affecting Boothby. We will never share your details.
+Be the first to hear about campaign updates, events, and key political issues affecting the Electorate of Boothby. We will never share your details.
 
 **[-> Sign up for the Better for Boothby mailing list here!](http://eepurl.com/iJt_7g)**
 
@@ -39,7 +39,7 @@ Your donation will go directly towards things like printing flyers, hosting comm
 
 ### 4. Spread the Word
 
-The most powerful thing you can do is talk to your friends, family, and neighbours. Tell them why you believe Boothby deserves better and why you're supporting this movement.
+The most powerful thing you can do is talk to your friends, family, and neighbours. Tell them why you believe the Electorate of Boothby deserves better and why you're supporting this movement.
 
 *   Follow us on social media (links to be added).
 *   Share our posts and invite your friends to follow us.

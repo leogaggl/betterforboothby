@@ -19,6 +19,10 @@
                               <span class="sr-only">{{ i18n "navToggle" }}</span>
                                 <i class="fas fa-align-justify"></i>
                             </button>
+                            <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#search">
+                                <span class="sr-only">Toggle search</span>
+                                <i class="fas fa-search"></i>
+                            </button>
                         </div>
                     </div>
                     <!--/.navbar-header -->
@@ -150,12 +154,13 @@
             </div>
 
             <div class="collapse clearfix" id="search">
-                <form class="navbar-form" role="search">
+                <form class="navbar-form" role="search" action="//google.com/search" method="get" accept-charset="UTF-8">
                     <div class="input-group">
-                        <input type="text" class="form-control" placeholder="Search">
+                        <input type="search" name="q" class="form-control" placeholder="Search">
+                        <input type="hidden" name="sitesearch" value="{{ .Site.BaseURL }}">
                         <span class="input-group-btn">
-                    <button type="submit" class="btn btn-template-main"><i class="fas fa-search"></i></button>
-                </span>
+                            <button type="submit" class="btn btn-template-main"><i class="fas fa-search"></i></button>
+                        </span>
                     </div>
                 </form>
             </div>
