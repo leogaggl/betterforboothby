@@ -19,10 +19,6 @@
                               <span class="sr-only">{{ i18n "navToggle" }}</span>
                                 <i class="fas fa-align-justify"></i>
                             </button>
-                            <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#search">
-                                <span class="sr-only">Toggle search</span>
-                                <i class="fas fa-search"></i>
-                            </button>
                         </div>
                     </div>
                     <!--/.navbar-header -->
@@ -146,6 +142,12 @@
                           </li>
                           {{ end }}
                           {{ end }}
+                            <li>
+                                <a href="#search" data-toggle="collapse" data-target="#search" class="search-btn">
+                                    <i class="fas fa-search"></i>
+                                    <span class="sr-only">Toggle search</span>
+                                </a>
+                            </li>
                         </ul>
                     </div>
                     <!--/.nav-collapse -->

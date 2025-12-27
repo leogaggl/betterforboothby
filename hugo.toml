@@ -13,7 +13,7 @@ pluralizelisttitles = false
         shortname = ""
     # Disable Google Analytics for now
     [services.googleAnalytics]
-        id = ""
+        id = "G-515L4W4VDX"
 
 [menu]
   [[menu.main]]
