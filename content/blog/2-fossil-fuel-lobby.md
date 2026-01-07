@@ -4,7 +4,7 @@ date = "2025-12-03T10:00:00+10:30"
 tags = ["climate", "lobbying", "integrity", "fossil fuels", "accountability"]
 categories = ["Who Really Decides?"]
 banner = "img/blog/justinwkern-11591709006.jpg"
-authors = ["Leo Gaggl"]
+authors = ["leogaggl"]
 series = ["Who Really Decides?"]
 description = "Who's really shaping our climate future? We explore the influence of the fossil fuel lobby on Australian politics and what it means for climate action in the Electorate of Boothby."
 +++

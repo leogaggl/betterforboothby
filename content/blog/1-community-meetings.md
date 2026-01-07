@@ -4,7 +4,7 @@ date = "2025-12-10T10:00:00+10:30"
 tags = ["community", "meet-up", "getting started"]
 categories = ["Action"]
 banner = "img/blog/damienwalmsley-54101142508.jpg" 
-authors = ["Leo Gaggl"]
+authors = ["leogaggl"]
 description = "Turn frustration into action. Find out about our informal community meet-ups across the Electorate of Boothby and join the conversation about a better future for our electorate."
 +++
 

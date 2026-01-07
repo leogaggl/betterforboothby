@@ -4,7 +4,7 @@ date = "2025-12-05T10:00:00+10:30"
 tags = ["healthcare", "lobbying", "integrity", "community", "medicare"]
 categories = ["Who Really Decides?"]
 banner = "img/blog/opengridscheduler-20636426155.jpg"
-authors = ["Leo Gaggl"]
+authors = ["leogaggl"]
 series = ["Who Really Decides?"]
 description = "Is our healthcare system working for us? A look at how the for-profit health lobby influences policy in Canberra and what it means for healthcare in the Electorate of Boothby."
 +++

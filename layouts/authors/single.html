@@ -34,7 +34,7 @@
                             {{ .Content }}
 
                             {{ $author_posts := where site.RegularPages "Type" "blog" }}
-                            {{ $author_posts := where $author_posts "Params.authors" "intersect" (slice .Title) }}
+                            {{ $author_posts := where $author_posts "Params.authors" "intersect" (slice .File.ContentBaseName) }}
 
                             {{ if gt (len $author_posts) 0 }}
                             <h2>Posts by {{ .Title }}</h2>

@@ -34,7 +34,7 @@
                         {{ if or .Params.author .Params.date }}
                           <p class="text-muted text-uppercase mb-small text-right">
                             {{ if isset .Params "authors" }}
-			      {{ i18n "authorBy" }} {{ range $index, $author := .Params.authors }}{{ if $index }}, {{ end }}<a href="{{ (printf "%s/%s" ("authors" | relLangURL) ($author | urlize)) }}">{{ $author }}</a>{{ end }}
+			      {{ i18n "authorBy" }} {{ range $index, $author := .Params.authors }}{{ if $index }}, {{ end }}{{ $authorPage := $.Site.GetPage (printf "authors/%s" ($author | urlize)) }}{{ if $authorPage }}<a href="{{ $authorPage.RelPermalink }}">{{ $authorPage.Title }}</a>{{ else }}<a href="{{ (printf "%s/%s" ("authors" | relLangURL) ($author | urlize)) }}">{{ $author }}</a>{{ end }}{{ end }}
                             {{ end }}
                             {{ if and .Params.author .Params.date }} | {{ end }}
                             {{ if .Params.date }}
