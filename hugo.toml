@@ -1,4 +1,4 @@
-baseURL = "https://betterforboothby.com.au"
+baseURL = "https://betterforboothby.com.au/"
 languageCode = "en-au"
 title = "Better for Boothby"
 theme = "hugo-universal-theme"
@@ -6,6 +6,12 @@ defaultContentLanguage = "en"
 
 # not pluralize title pages by default
 pluralizelisttitles = false
+
+# Use git commit dates for lastmod in sitemap
+enableGitInfo = true
+
+# Prevent Hugo generating a template robots.txt that conflicts with static/robots.txt
+enableRobotsTXT = false
 
 [services]
     # Disable comments
