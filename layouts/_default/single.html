@@ -29,6 +29,9 @@
                         <div class="post-banner">
                             <img src="{{ .Params.banner | relURL }}" alt="{{ .Title }}" class="img-responsive">
                         </div>
+                        {{ if and (eq .Section "blog") .Params.attribution_text }}
+                        <p class="text-muted text-right"><small>Image credit: <a href="{{ .Params.attribution_url }}" target="_blank">{{ .Params.attribution_text }}</a></small></p>
+                        {{ end }}
                         {{ end }}
 
                         {{ if or .Params.author .Params.date }}

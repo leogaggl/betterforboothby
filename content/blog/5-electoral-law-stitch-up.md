@@ -4,6 +4,8 @@ date = "2026-01-07T10:00:00+10:30"
 tags = ["integrity", "democracy", "electoral reform", "accountability", "don farrell"]
 categories = ["Action"]
 banner = "img/blog/giustino-36525291946.jpg"
+attribution_text = "giustino"
+attribution_url = "https://www.flickr.com/photos/giustino/36525291946"
 authors = ["leogaggl"]
 description = "The Labor/Coalition deal on electoral laws isn't about fairness; it's about locking out competition. We break down the rigged new rules and how you can help fight them."
 +++
