@@ -38,6 +38,18 @@ To run the website locally for development, you will need to have Hugo installed
 
 The site is automatically deployed to GitHub Pages via a GitHub Actions workflow whenever changes are pushed to the `main` branch.
 
+### Manual Publishing (gh CLI)
+
+If you have articles scheduled for a future date, you can manually trigger a deployment once they are due using the GitHub CLI:
+
+```bash
+# Trigger the deployment workflow
+gh workflow run hugo.yml
+
+# Optional: Watch the progress
+gh run watch
+```
+
 ## Image Guidelines
 
 To ensure optimal display quality and performance, please adhere to the following image size guidelines:
