@@ -1,6 +1,6 @@
 +++
 title = "Beware the Beginnings: Mulching the Noise and Growing Our Community"
-date = "2026-05-03T10:00:00+10:30"
+date = "2026-05-15T10:00:00+10:30"
 tags = ["community", "action", "murdoch", "mental health", "localism"]
 categories = ["Action"]
 banner = "blog/11-mulching-the-noise/donkeyhotey-51398947993.jpg"

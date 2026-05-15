@@ -1,6 +1,6 @@
 +++
 title = "Beware the Beginnings: Why They Want a Quieter Democracy"
-date = "2026-05-01T10:00:00+10:30"
+date = "2026-05-12T10:00:00+10:30"
 tags = ["integrity", "transparency", "protest rights", "surveillance", "privacy"]
 categories = ["Who Really Decides?"]
 banner = "blog/10-transparency-and-rights/14417041_N07-2045544762.jpg"
