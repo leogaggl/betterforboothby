@@ -1,0 +1,35 @@
+{{ $related := .Site.RegularPages.Related . | first 3 }}
+{{ if $related }}
+<div id="related-posts" class="mt-4">
+    <div class="heading">
+        <h3>{{ i18n "relatedPosts" }}</h3>
+    </div>
+    <div class="row">
+        {{ range $related }}
+        <div class="col-md-4 col-sm-6">
+            <div class="box-image-text blog">
+                <div class="top">
+                    <div class="image" style="overflow:hidden">
+                        {{ if isset .Params "banner" }}
+                        <img src="{{ .Params.banner | relURL }}" class="img-responsive" alt="{{ .Title }}" />
+                        {{ else }}
+                        <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="{{ .Title }}" />
+                        {{ end }}
+                    </div>
+                    <div class="bg"></div>
+                    <div class="text">
+                        <p class="buttons">
+                            <a href="{{ .RelPermalink }}" class="btn btn-template-transparent-primary"><i class="fas fa-link"></i> {{ i18n "readMore" }}</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="content">
+                    <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+                    <p class="intro">{{ .Summary | truncate 100 }}</p>
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

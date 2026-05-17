@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
+<html lang="{{ .Site.Language.Locale }}">
 
   <head>
     {{ partial "headers.html" . }}
@@ -52,8 +52,15 @@
 
                         <div id="post-content">
                           {{ .Content }}
+                          {{ if eq .Section "blog" }}
+                            {{ partial "series_nav.html" . }}
+                          {{ end }}
                         </div>
                         <!-- /#post-content -->
+
+                        {{ if eq .Section "blog" }}
+                          {{ partial "related_posts.html" . }}
+                        {{ end }}
                         {{ if .Site.Config.Services.Disqus.Shortname }}
                         <div id="comments">
                             {{ template "_internal/disqus.html" . }}

@@ -1,0 +1,18 @@
+{{ if .Params.series }}
+<div class="series-nav" style="background: #f7f7f7; padding: 20px; margin: 20px 0; border-left: 5px solid #38a7bb;">
+    {{ $seriesName := index .Params.series 0 }}
+    <h4>Part of the series: {{ $seriesName }}</h4>
+    <p>This post is part of our <em>{{ $seriesName }}</em> series. Explore other posts in this series:</p>
+    <ul class="list-unstyled">
+        {{ range where .Site.RegularPages "Params.series" "intersect" .Params.series }}
+        <li>
+            {{ if eq . $ }}
+            <strong>{{ .Title }} (Current Post)</strong>
+            {{ else }}
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{ end }}
+        </li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}
